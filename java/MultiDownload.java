@@ -20,7 +20,6 @@ import java.util.concurrent.CountDownLatch;
  *
  * and WTF...
  *
- * Created by chenwen.wcw on 2019/3/26.
  */
 public class MultiDownload {
 
